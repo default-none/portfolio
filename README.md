@@ -9,6 +9,12 @@
 <span>
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=TailwindCSS&logoColor=white"/>
 </span>
+<span>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logoCSS3&logoColor=white"/>
+</span>
 
 #### Design Tools / 디자인 도구
 <span>
