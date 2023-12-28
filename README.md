@@ -36,3 +36,16 @@
 
 ![connect](./readme_asset/connect.png)
 
+## Version Update Log / 업데이트 기록
+
+### 0.0.1
+
+<p>개발환경 구성 및 기본적인 세팅</p>
+
+### 0.0.2
+
+<p>Intro Section, About Section 제작</p>
+
+![introDev](./readme_asset/IntroDevlop.png)
+
+![aboutDev](./readme_asset/AboutDevlop.png)
