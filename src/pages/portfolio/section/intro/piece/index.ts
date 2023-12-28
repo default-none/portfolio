@@ -1,2 +1,2 @@
 export { default as IntroLogo } from "./IntroLogo";
-export { default as MyMotto } from "./MyMotto";
+export { default as TypingText } from "./TypingText";

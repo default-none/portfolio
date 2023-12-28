@@ -1,10 +1,10 @@
-import { IntroLogo, MyMotto } from "./piece";
+import { IntroLogo, TypingText } from "./piece";
 
 export default function Intro() {
   return (
     <section>
       <div className="basic-screen h-[100dvh] xy-center-f relative">
-        <MyMotto text={[ "반갑습니다.", "저는", "꺼지지않는 불꽃입니다."]} />
+        <TypingText text={["박진수's Portfolio"]} />
         <IntroLogo/>
       </div>
     </section>
