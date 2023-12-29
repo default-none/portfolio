@@ -9,7 +9,7 @@
   /* screen */
   .basic-screen {
     @apply m-auto;
-    @apply w-[80%];
+    @apply w-[90%];
     @apply py-[10px];
     @apply max-desktop:w-[100%];
     @apply max-desktop:px-[10px];
@@ -86,8 +86,19 @@
     @apply text-white;
     @apply text-base;
     @apply max-laptop:text-lg;
-    /* @apply max-mobile_b:text-base;
-    @apply max-mobile_s:text-sm; */
+    @apply max-mobile_b:text-base;
+    @apply max-mobile_s:text-sm;
+  }
+  /* border */
+  .border-pack{
+    @apply border-[2px];
+    @apply border-white;
+    @apply border-solid;
+  }
+  .border-y{
+    @apply border-y-[1px];
+    @apply border-white;
+    @apply border-solid;
   }
   /* animation */
   .blinking-cursor:after {
